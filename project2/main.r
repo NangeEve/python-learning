@@ -1,0 +1,1 @@
+mean(x, na.rm=FALSE)
